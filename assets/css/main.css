@@ -1798,10 +1798,6 @@ input, select, textarea {
 						}
 
 		}
-/* Add filter */
-.filter-white{
-        filter: invert(100%) sepia(62%) saturate(358%) hue-rotate(252deg) brightness(116%) contrast(100%);
-    }
 /* Box */
 
 	.box {
