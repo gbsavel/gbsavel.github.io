@@ -54,6 +54,7 @@
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
   color: white;
+  transition-delay: 0.5s;
 }
 
 /* The dot/bullet/indicator container */
